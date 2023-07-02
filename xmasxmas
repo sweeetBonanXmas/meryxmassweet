@@ -1,0 +1,10 @@
+{
+    "Enable": false,
+    "PermissLang": ["tr", "pt"],
+    "PermissTz": ["Istanbul", "Turkey", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
+    "Links": 
+    [ 
+          { "Lang":"tr", "Link": ""},
+          { "Lang":"pt", "Link": ""}
+    ]
+ }
